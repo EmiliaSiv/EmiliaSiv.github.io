@@ -1,0 +1,36 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+= Emilia Siviero
+
+
+~~~
+{}{img_left}{subfiles/me.jpg}{alt text}{130px}
+
+PhD Sudent\n
+/Télécom Paris/\n\n
+*Contact*\n
+Email: emilia \[dot\] siviero \[at\] telecom-paris.fr\n
+Others: [\/https://scholar.google.com/citations?user=fXgB6igAAAAJ&hl=fr&oi=ao Google Scholar], [\/https://github.com/EmiliaSiv GitHub]
+
+~~~
+
+
+== About me
+Since October 2020, I am a PhD student at Télécom Paris, in the department [\/https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/image-donnees-signal IDS] (Image, Data and Signal), under the supervision of [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].
+My work focuses on spatial statistics, nonparametric estimation, and spatio-temporal Hawkes processes.
+
+
+Prior to this, I graduated from Master M2 MVA at ENS Paris-Saclay.
+You can find more about my background in my [\/subfiles/resume.pdf resume].
+
+
+== Research Interests
+- Geostatistics
+- Nonparametric covariance estimation
+- Spatio-temporal Hawkes processes
+
+
+My list of publications is available [publis.html here].
+
+
+== News
+- November 23: Our work "A statistical learning view of simple Kriging" got accepted at [\/https://link.springer.com/journal/11749 TEST] (joint work with E. Chautru and S. Clémençon)!
