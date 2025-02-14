@@ -5,21 +5,21 @@
 ~~~
 {}{img_left}{subfiles/me.jpg}{alt text}{130px}
 
-PhD Sudent\n
-/Télécom Paris/\n\n
+Post-doctoral Researcher\n
+/Università Ca' Foscari, Venezia/\n\n
 *Contact*\n
-Email: emilia \[dot\] siviero \[at\] telecom-paris.fr\n
+Email: emilia \[dot\] siviero \[at\] unive.it\n
 Others: [\/https://scholar.google.com/citations?user=fXgB6igAAAAJ&hl=fr&oi=ao Google Scholar], [\/https://github.com/EmiliaSiv GitHub]
 
 ~~~
 
 
 == About me
-Since October 2020, I am a PhD student at Télécom Paris, in the department [\/https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/image-donnees-signal IDS] (Image, Data and Signal), under the supervision of [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].
-My work focuses on spatial statistics, nonparametric estimation, and spatio-temporal Hawkes processes.
+Since December 2024, I am a post-doctoral researcher at Università Ca' Foscari (Venezia), in the Department of Environmental Sciences, Informatics and Statistics ([\/https://www.unive.it/pag/16129 DAIS]), under the supervision of [\/https://www.unive.it/data/persone/19166744 Ilaria Prosdocimi] and [\/https://carlogaetan.weebly.com Carlo Gaetan]. I work on spatial statistics and extreme value theory.
 
+Previously, I obtained my PhD entitled "Statistical Learning for Spatial data: theory and practice" at Télécom Paris, in the Department of Image, Data and Signal ([\/https://www.telecom-paris.fr/fr/ecole/departements-enseignement-recherche/image-donnees-signal IDS]), under the supervision of [\/https://perso.telecom-paristech.fr/clemenco/ Stephan Clémençon].
+My PhD research focused on spatial statistics, nonparametric estimation, and spatio-temporal Hawkes processes.
 
-Prior to this, I graduated from Master M2 MVA at ENS Paris-Saclay.
 You can find more about my background in my [\/subfiles/resume.pdf resume].
 
 
@@ -27,6 +27,7 @@ You can find more about my background in my [\/subfiles/resume.pdf resume].
 - Geostatistics
 - Nonparametric covariance estimation
 - Spatio-temporal Hawkes processes
+- Extreme Value Theory
 
 
 My list of publications is available [publis.html here].
@@ -34,4 +35,3 @@ My list of publications is available [publis.html here].
 
 == News
 - November 23: Our work "A statistical learning view of simple Kriging" got accepted at [\/https://link.springer.com/journal/11749 TEST] (joint work with E. Chautru and S. Clémençon)!
-- August 24: We will be presenting our work "Flexible parametric inference for space-time Hawkes processes" at [\/http://www.compstat2024.org/ COMPSTAT 2024] (joint work with G. Staerman, S. Clémençon and T. Moreau)
